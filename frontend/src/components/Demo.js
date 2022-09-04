@@ -1,6 +1,6 @@
 function Demo() {
     return (
-        <div>
+        <div className="DemoAll">
             <h1>Forest Watch Demo!</h1>
             <div>
         

@@ -1,9 +1,6 @@
 function Landing() {
   return (
     <div>
-        <div className="NavBar">
-            <h1 className="landingTitle">Forest Watch</h1>
-        </div>
         <div className="titleCen">
             <div className="leftBar">
                 <div className="leftBarImg">
