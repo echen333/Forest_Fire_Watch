@@ -1,6 +1,9 @@
+import NavBar from "./NavBar";
+
 function Landing() {
   return (
     <div>
+        <NavBar></NavBar>
         <div className="titleCen">
             <div className="leftBar">
                 <div className="leftBarImg">

@@ -92,3 +92,13 @@
     transform: rotate(360deg);
   }
 }
+.leafMap {
+  height: 800px;
+  width: 800px;
+  background-color: pink;
+  margin: auto;
+}
+.demoContainer {
+  margin-left: 20%;
+  margin-right: 20%;
+}
