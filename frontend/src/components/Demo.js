@@ -1,6 +1,5 @@
 import { MapContainer, TileLayer, useMap, Popup, Marker } from 'react-leaflet'
 import React, { useEffect } from 'react';
-import MarkerClusterGroup from "react-leaflet-markercluster";
 
 import "../styles.scss";
 
