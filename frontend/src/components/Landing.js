@@ -1,9 +1,11 @@
 import NavBar from "./NavBar";
+import YoutubeEmbed from "./YotubeEmbed";
 
 function Landing() {
   return (
     <div>
         <NavBar></NavBar>
+        
         <div className="titleCen">
             <div className="leftBar">
                 <div className="leftBarImg">
@@ -18,7 +20,7 @@ function Landing() {
                 
                 <h3> Check out our <a href="/demo">Demo</a>! </h3>
 
-                <h3> Project built by <a href="https://github.com/aadityayadav">Aaditya Yadav</a>, <a href="https://github.com/echen333">Edward Chen</a></h3>
+                <h3> Project built by <a href="https://github.com/aadityayadav">Aaditya Yadav</a>, <a href="https://github.com/echen333">Edward Chen</a>, Aditya Swarup, and Ojas Varma.</h3>
             </div>
         </div>
         <div className="howItWorksBef">
@@ -34,6 +36,7 @@ function Landing() {
                 <img src={require('../img/wildFireGif.gif')} width="500" />
             </div>
         </div>
+            <YoutubeEmbed embedId="DC8niUxdg2c" />
         <div className="ourModel">
             <div className="halfContainers">
                 <h1>Our Model</h1>
