@@ -16,7 +16,7 @@ function Landing() {
                 <h3> We built our CNN model from the ground up using satellite imagery collected from the <a href="https://sentinel.esa.int/web/sentinel/missions/sentinel-2"> Sentinel-2 Satellite</a> and data from 
                 the <a href="https://mobile.twitter.com/firewatchbot"> Firewatch Bot</a>.</h3>
                 
-                <h3> Check out our <a href="/demo">Demo</a>! </h3>
+                <h3> Check out our <a href="/demo">Demo</a>, <a href="https://youtu.be/DC8niUxdg2c">Video</a>, or <a href="https://github.com/echen333/Forest_Fire_Watch">Code</a>! </h3>
 
                 <h3> Project built by <a href="https://github.com/aadityayadav">Aaditya Yadav</a>, <a href="https://github.com/echen333">Edward Chen</a>, Aditya Swarup, and Ojas Varma.</h3>
             </div>
