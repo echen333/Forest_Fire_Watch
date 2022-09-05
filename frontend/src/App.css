@@ -1,7 +1,7 @@
 .titleCen {
   text-align: center;
   display: flex;
-  margin-top: 30px;
+  margin-top: 100px;
 }
 .NavBar {
   background-color: green;
@@ -31,6 +31,9 @@
   text-align: center;
   margin: 0;
   padding: 0;
+  font-size: xx-large;
+  text-decoration: none;
+  color: white;
 }
 .rightBar {
   width: 40%;
@@ -93,9 +96,8 @@
   }
 }
 .leafMap {
-  height: 800px;
+  height: 500px;
   width: 800px;
-  background-color: pink;
   margin: auto;
 }
 .demoContainer {
