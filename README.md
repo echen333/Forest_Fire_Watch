@@ -6,4 +6,4 @@ We built our CNN model from the ground up using satellite imagery collected from
 
 Project built by Aaditya Yadav, Edward Chen, Aditya Swarup, and Ojas Varma.
 
-Honorable Mention in the Ecohacks Hackathon. 
+Winner in the Ecohacks Hackathon. 
